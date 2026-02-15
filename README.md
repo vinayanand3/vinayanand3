@@ -26,7 +26,7 @@ I build interactive web and AI-driven tools focused on usability, visualization,
 
 ### 🎓 Education
 
-**Georgia Institute of Technology**
+* **Georgia Institute of Technology**
 MS Computer Science — Artificial Intelligence
 Expected 2026
 
