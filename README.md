@@ -18,13 +18,10 @@ I build interactive web and AI-driven tools focused on usability, visualization,
 
 ### 🚀 Featured Projects
 
-**Markup-Genius** — AI-assisted Markdown editor with live preview and formatting automation
-
-**CandleCrash** — Interactive financial prediction game using real market data
-
-**Data-Visualizer** — Web-based dataset exploration and charting tool
-
-**SubScout** — Subscription analysis and tracking application
+* **Markup-Genius** — AI-assisted Markdown editor with live preview and formatting automation
+* **CandleCrash** — Interactive financial prediction game using real market data
+* **Data-Visualizer** — Web-based dataset exploration and charting tool
+* **SubScout** — Subscription analysis and tracking application
 
 
 ### 🎓 Education
