@@ -1,4 +1,3 @@
----
 
 ## Vinay Anand Bhaskarla
 
@@ -7,7 +6,6 @@ Software Engineer • TypeScript • React • Data Visualization • AI Applica
 
 I build interactive web and AI-driven tools focused on usability, visualization, and real-world data.
 
----
 
 ### 🔧 Tech Stack
 
@@ -17,7 +15,6 @@ I build interactive web and AI-driven tools focused on usability, visualization,
 * **AI/ML:** Applied AI apps, automation, intelligent tooling
 * **Tools:** Git, GitHub, Node.js
 
----
 
 ### 🚀 Featured Projects
 
@@ -26,7 +23,6 @@ I build interactive web and AI-driven tools focused on usability, visualization,
 **Data-Visualizer** — Web-based dataset exploration and charting tool
 **SubScout** — Subscription analysis and tracking application
 
----
 
 ### 🎓 Education
 
@@ -34,14 +30,12 @@ I build interactive web and AI-driven tools focused on usability, visualization,
 MS Computer Science — Artificial Intelligence
 Expected 2026
 
----
 
 ### 🌐 Links
 
 * LinkedIn: [https://www.linkedin.com/in/vinayanand2](https://www.linkedin.com/in/vinayanand2)
 * GitHub: [https://github.com/vinayanand3](https://github.com/vinayanand3)
 
----
 
 ### 📊 GitHub Focus
 
@@ -50,4 +44,3 @@ Expected 2026
 * Data visualization interfaces
 * Applied ML utilities
 
----
