@@ -35,6 +35,7 @@ Expected 2026
 
 * LinkedIn: [https://www.linkedin.com/in/vinayanand2](https://www.linkedin.com/in/vinayanand2)
 * GitHub: [https://github.com/vinayanand3](https://github.com/vinayanand3)
+* Devpost: https://devpost.com/vinayanand2?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
 
 
 ### 📊 GitHub Focus
