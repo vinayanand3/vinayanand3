@@ -2,6 +2,7 @@
 ## Vinay Anand Bhaskarla
 
 **MS Computer Science (AI), Georgia Institute of Technology — 2026**
+
 Software Engineer • TypeScript • React • Data Visualization • AI Applications
 
 I build interactive web and AI-driven tools focused on usability, visualization, and real-world data.
