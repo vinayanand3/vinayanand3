@@ -12,7 +12,7 @@ I build interactive web and AI-driven tools focused on usability, visualization,
 
 * **Languages:** Python, TypeScript, JavaScript
 * **Frontend:** React, Tailwind CSS, Vite
-* **Data & Viz:** D3, Charting, Data Processing
+* **Data & Viz:** Data driven documentation, Charting, Data Processing
 * **AI/ML:** Applied AI apps, automation, intelligent tooling
 * **Tools:** Git, GitHub, Node.js
 
